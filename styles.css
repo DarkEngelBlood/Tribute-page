@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Tahoma;
+    background-color: #141414;
+  }
+  
+  main {
+    background-color: #281D47;
+    padding: 5px;
+    margin: 30px 15px;
+    color: #516694;
+    border-radius: 8px;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  p {
+    padding-bottom: 30px;
+    font-style: italic;
+  }
+  
+  ul {
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  li {
+    padding: 3px 5px;
+  }
+  
+  ol {
+    margin-left: 100px
+  }
+  
+  #tribute-info {
+      padding: 3px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+  }
+  
+  #img-div {
+    background-color: #0A004A40;
+    padding: 10px;
+  }
+  
+  #img-caption {
+    color: #516694;
+    padding: 10px 5px 20px 5px;
+  }
+  
+  #title {
+    font-family: Impact;
+    letter-spacing: 1.5px;
+    font-size: 40px;
+    color: #000;
+    text-shadow: 2px 1px 2px #516694;
+    padding-top: 30px
+  }
+  
+  #quote {
+    padding: 10px 0 10px 0;
+  }
+  
+  #final-quote {
+    font-size: 16px;
+    margin-bottom: 30px
+  }
+  
+  #tribute-link {
+    color: #7492B3;
+  }
+  
+  #tribute-link:hover {
+    color: #fff;
+  }
